@@ -31,7 +31,7 @@ Híbrida: planificación predictiva (alcance, EDT, riesgos) y ejecución con Scr
 - Emilio Vega
 
 ## Gestión del proyecto
-- Jira (proyecto KAN): https://miiguelantoniio18.atlassian.net/jira/software/projects/KAN/boards/2?filter=&groupBy=none
+- Jira (proyecto KAN) https://miiguelantoniio18.atlassian.net/jira/software/projects/KAN/boards/2?filter=&groupBy=none
 - Canal del equipo: ENLACE_AQUI
 
 ## Flujo de trabajo con Git
